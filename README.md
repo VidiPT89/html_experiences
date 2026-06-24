@@ -32,7 +32,6 @@ A single-page site built while learning the fundamentals of web development, cov
 
 ## Context
 
-Built as part of my **Web Development (Front-End)** module at **CESAE Digital**.  
 First project. First commit. First everything.
 
 ---
