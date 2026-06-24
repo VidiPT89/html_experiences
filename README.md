@@ -1,39 +1,40 @@
 # 🌐 First Steps in Web — HTML & CSS Playground
 
-> *"Every expert was once a beginner."*
+> My very first HTML & CSS project — raw markup, external stylesheets, and the basics of web structure.
 
-This is where it all started. My very first HTML & CSS project — no frameworks, 
-no shortcuts, just raw markup and a stylesheet figuring things out together.
+A single-page site built while learning the fundamentals of web development. No frameworks, no shortcuts — just semantic HTML and CSS figuring things out together.
 
-## What's inside
+## 📦 What's Inside
 
-A single-page site built while learning the fundamentals of web development, covering:
+- 📝 Semantic HTML structure and heading hierarchy
+- 🔗 Links — internal anchors, external, `mailto`, `tel`
+- 🖼️ Images and basic layout with `div`
+- 📊 Tables with `rowspan` and `colspan`
+- 📋 Ordered and unordered lists (nested)
+- 🎬 Embedded iframes — YouTube + Google Maps
+- 🎨 External CSS stylesheet
+- 📄 A second page (`campeoes.html`) — very much under construction
 
-- Semantic HTML structure and heading hierarchy
-- External CSS stylesheets and the cascade
-- Links (internal anchors, external, mailto, tel)
-- Images and basic layout with `div`
-- Tables with `rowspan` and `colspan`
-- Ordered and unordered lists (nested)
-- Embedded iframes (YouTube + Google Maps)
-- A second page (`campeoes.html`) — spoiler: it's very much under construction
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## Honest notes
+## 🚀 How to Run
 
-- Some CSS properties are misspelled (`teste-align`, `texte-align`) — they're staying. 
-  They're part of the journey.
+```bash
+git clone https://github.com/VidiPT89/html_experiences.git
+cd html_experiences
+# Open index.html in any browser
+```
+
+## 📝 Notes
+
+- Some CSS properties are misspelled (`teste-align`, `texte-align`) — they're staying. They're part of the journey.
 - `campeoes.html` contains exactly four characters of content. Growth takes time.
 - The images are real sports photos. The table data is not.
-
-## Context
-
-First project. First commit. First everything.
+- First project. First commit. First everything.
 
 ---
 
-*More projects coming as the course evolves.*
+Developed by **David Martins**
